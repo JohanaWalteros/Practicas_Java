@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42cae349-aa0f-402e-9c75-488d293343a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_01_Introduccion/_01_Introduccion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_bucles/_02_bucles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_array/_03_array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_poo/_04_poo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_POO_SegundaParte/_05_POO_SegundaParte.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_Gestion_cursos/_06_Gestion_cursos.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2drPdAx1mKhdEywJESbW1NRG7eh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42cae349-aa0f-402e-9c75-488d293343a6" name="Changes" comment="" />
+      <created>1710763309674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710763309674</updated>
+    </task>
+    <servers />
+  </component>
+</project>
